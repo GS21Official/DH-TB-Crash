@@ -1,0 +1,2 @@
+--TB Crash
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GS21Official/DH-TB-Crash/main/TB%20Crash%3A%20Script", true))()
