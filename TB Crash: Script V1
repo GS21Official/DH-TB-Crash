@@ -6,7 +6,7 @@ function announce(title,text,timeeee)
 		Duration = timeeee;
 	})
 end
-announce("TB Crash", "Put [ /console ] in chat", 120)
+announce("TB Crash", "Put [ /console ] in chat and scroll down", 200)
 end)
 --
 spawn(function()
