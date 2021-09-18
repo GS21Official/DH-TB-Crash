@@ -3,37 +3,34 @@ local ae=(function(n,e)return(n~=e);end)local e=(function(n,e)return(n>=e);end)l
 game.StarterGui:SetCore("SendNotification", {
 	Title = "TrustBoy Crash";
 	Text = "USE CURRENT (V1 IS PATCH!!!)"; 
-	Icon = "rbxassetid://0"; 
+	Icon = "rbxassetid://1598807444"; 
 	Duration = 15; 
 })
 
 game.StarterGui:SetCore("SendNotification", {
 	Title = "TrustBoy Crash";
 	Text = "USE CURRENT (V1 IS PATCH!!!)"; 
-	Icon = "rbxassetid://0"; 
+	Icon = "rbxassetid://1598807444"; 
 	Duration = 15; 
 })
-
 
 game.StarterGui:SetCore("SendNotification", {
 	Title = "TrustBoy Crash";
 	Text = "USE CURRENT (V1 IS PATCH!!!)"; 
-	Icon = "rbxassetid://0"; 
+	Icon = "rbxassetid://1598807444"; 
 	Duration = 15; 
 })
-
 
 game.StarterGui:SetCore("SendNotification", {
 	Title = "TrustBoy Crash";
 	Text = "USE CURRENT (V1 IS PATCH!!!)"; 
-	Icon = "rbxassetid://0"; 
+	Icon = "rbxassetid://1598807444"; 
 	Duration = 15; 
 })
-
 
 game.StarterGui:SetCore("SendNotification", {
 	Title = "TrustBoy Crash";
 	Text = "USE CURRENT (V1 IS PATCH!!!)"; 
-	Icon = "rbxassetid://0"; 
+	Icon = "rbxassetid://1598807444"; 
 	Duration = 15; 
 })
